@@ -1,14 +1,10 @@
 # Intro
 
----
-
 ```
 기초 CS 스터디
 ```
 
 # Rule
-
----
 
 ```
 경륜 : ryun branch
@@ -21,13 +17,9 @@
 
 # Text Book
 
----
-
 - 코딩인터뷰퀘스천
 
 # Member
-
----
 
 - [kyungryun](github.com/kyungryun) (kyung_ryun@naver.com)
 - [sumin](hsue66.github.com) (hsue0606@gmail.com)
