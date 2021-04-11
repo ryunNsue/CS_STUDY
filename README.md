@@ -22,5 +22,5 @@
 # Member
 
 - [kyungryun](github.com/kyungryun) (kyung_ryun@naver.com)
-- [sumin](hsue66.github.com) (hsue0606@gmail.com)
+- [sumin](github.com/hsue66) (hsue0606@gmail.com)
 
