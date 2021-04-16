@@ -1,7 +1,5 @@
 ## 추상클래스 vs. 인터페이스
 
----
-
 ### 추상클래스(Abstract Class)
 
 - 하나 이상의 구현 안된 메서드 존재 -> 인스턴스화 할수 없는 클래스
@@ -23,8 +21,6 @@
 
 ## Primitive 자료형
 
----
-
 int, long, float, double, boolean, char ...  
 
 new로 객체생성 불가
@@ -32,8 +28,6 @@ new로 객체생성 불가
 
 
 ## String vs. StringBuffer
-
----
 
 StringBuffer
 
@@ -52,8 +46,6 @@ String
   
 
 ## 배열 vs. Vector vs. ArrayList
-
----
 
 ### 배열 
 
@@ -94,8 +86,6 @@ String
 
 ## HashMap
 
----
-
 map interface의 한종류, key 중복불가, value는 가능(null key1, value 여러개)
 
 정렬 X
@@ -129,15 +119,11 @@ hashmap 크기가 적재인수 보다 더 많은 객체를 담을 경우?
 
 ## TreeMap
 
----
-
 key 기준 정렬(binary search tree)
 
 
 
 ## HashTable
-
----
 
 null값 안됨
 
